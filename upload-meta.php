@@ -1,12 +1,12 @@
 <?php
 
 /*
-Plugin Name: Upload Metaboxe
-Plugin URI: https://github.com/mahlad/mahlad-wp-shopping/blob/master/shopping_11/wp-content/plugins/post-type/upload-meta.php 
+Plugin Name: mahlad-UploadMetaboxe
+Plugin URI: https://github.com/mahlad/mahlad-wp-plugins/blob/master/upload-meta.php
 Description: for insert an image or a file(word/pdf) in a post type
 Author: Mahla Delpak
 Version: 1.2
-Author URI: https://github.com/mahlad 
+Author URI: https://mahlad.ir 
 */
 /*--------Upload Metaboxe---------*/
 

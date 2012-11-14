@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Learn Post Type
-Plugin URI: 
+Plugin Name: mahlad-LearnPostType
+Plugin URI: https://github.com/mahlad/mahlad-wp-plugins/blob/master/learn-post.php
 Description: for articles or book ,...
 Author: Mahla Delpak
 Version: 1.1
-Author URI: https://github.com/mahlad
+Author URI: https://mahlad.ir
 */ 
 register_nav_menu('mainmenu', "Main Manu");
 

@@ -1,11 +1,11 @@
 <?php 
 /*
-Plugin Name: Product Post Type
-Plugin URI: 
+Plugin Name: mahlad-ProductPostType
+Plugin URI: https://github.com/mahlad/mahlad-wp-plugins/blob/master/product-post.php
 Description:
 Author: Mahla Delpak
 Version: 1.0
-Author URI: https://github.com/mahlad
+Author URI: https://mahlad.ir
 */
 
 include 'meta-box.php';
